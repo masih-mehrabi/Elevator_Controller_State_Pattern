@@ -1,4 +1,4 @@
-package de.tum.in.ase.pse;
+package ElevatorController;
 
 public final class Elevator {
 
